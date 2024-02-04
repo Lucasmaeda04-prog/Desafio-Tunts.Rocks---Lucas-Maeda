@@ -16,6 +16,7 @@ Este projeto Google Apps Script automatiza a avaliação acadêmica dos alunos e
 1. Acesse a Web App pelo seguinte link: [Link da Web App](https://script.google.com/macros/s/AKfycbzuzOp4ht8MiOFpBZE9g6o7JW6sS2MlyMNbHz3HqV9b/dev/exec?action=main)
 2. É mostrado na interface da Web App a tabela resultante gerada.
 3. Para "resetar" a planilha ao seu estado original utilize o link : [reset](https://script.google.com/macros/s/AKfycbzuzOp4ht8MiOFpBZE9g6o7JW6sS2MlyMNbHz3HqV9b/dev/exec?action=reset)
+4. Visualize as modificações ocorridas na [planilha](https://docs.google.com/spreadsheets/d/1Sk8Rsq9lnO3bqKWJS_tPyNcTbT4S_RQTS0xhuZnpasU/edit?usp=sharing)
 
 ### Executando Diretamente no Editor do Apps Script
 
