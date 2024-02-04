@@ -13,17 +13,19 @@ Este projeto Google Apps Script automatiza a avaliação acadêmica dos alunos e
 
 ### Acessando a Web App
 
-1. Acesse a Web App pelo seguinte link: [Link da Web App](https://script.google.com/macros/s/AKfycbxOJlfWPjydXSkNlFjg_6rzAFOzBYjv-Aoz37WeiWHMQK_oDFbWdvVswcyH4MTvN9IF9A/exec)
+1. Acesse a Web App pelo seguinte link: [Link da Web App](https://script.google.com/macros/s/AKfycbzuzOp4ht8MiOFpBZE9g6o7JW6sS2MlyMNbHz3HqV9b/dev/exec?action=main)
 2. É mostrado na interface da Web App a tabela resultante gerada.
-3. Para "resetar" a planilha ao seu estado original utilize o link : [Link da Web App](https://script.google.com/macros/s/AKfycbz34AKMCtGvmf3-NkFAbx4qOQ6TW8nghJxLjfRgnCM8U3DXMyhlFE0IDSZM6K94drLc/exec)
+3. Para "resetar" a planilha ao seu estado original utilize o link : [reset](https://script.google.com/macros/s/AKfycbzuzOp4ht8MiOFpBZE9g6o7JW6sS2MlyMNbHz3HqV9b/dev/exec?action=reset)
 
 ### Executando Diretamente no Editor do Apps Script
 
 Caso deseja visualizar os Logs ou executar/modificar o script diretamente:
 
+0. Acesse a [planilha](https://docs.google.com/spreadsheets/d/1Sk8Rsq9lnO3bqKWJS_tPyNcTbT4S_RQTS0xhuZnpasU/edit?usp=sharing) e crie uma cópia
 1. Na cópia da planilha, vá em `Extensões > Apps Script`.
 2. Substitua qualquer código existente pelo código do projeto e salve.
-3. Execute a função `doGet` para visualizar os resultados.
+3. Execute a função `main` para visualizar os resultados.
+4. Execute a função `reset` para resetar a planilha.  
 
 ## 📊 Regras de Avaliação
 
